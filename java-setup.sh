@@ -1,4 +1,3 @@
-sudo su - &&
 cd /opt && 
 mkdir java &&
 cd java &&
